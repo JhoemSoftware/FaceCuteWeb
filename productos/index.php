@@ -46,7 +46,7 @@
 								<img src="../assets/img/Locion2.jpg" class="card-img-top" alt="Imagen Loción">
 								<div class="card-body">
 									<h4>Loción Humectante FACE CUTE &reg;</h4>
-									<h1 class="precios">$11.000</h1>
+									<h1 class="precios">$12.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
 											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
@@ -73,7 +73,7 @@
 								<img src="../assets/img/Vidrio2.jpg" class="card-img-top" alt="Imagen Loción">
 								<div class="card-body">
 									<h4>Loción Limpiadora y Aclarante FACE CUTE &reg;</h4>
-									<h1 class="precios">$46.000</h1>
+									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
 											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
@@ -100,7 +100,7 @@
 								<img src="../assets/img/Jabon.jpg" class="card-img-top" alt="Imagen Loción">
 								<div class="card-body">
 									<h4>Jabón Hidratante FACE CUTE &reg;</h4>
-									<h1 class="precios">$11.000</h1>
+									<h1 class="precios">$12.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
 											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
@@ -127,7 +127,7 @@
 								<img src="../assets/img/Combo.jpg" class="card-img-top" alt="Imagen Loción">
 								<div class="card-body">
 									<h4>Kit FACE CUTE &reg;</h4>
-									<h1 class="precios">$68.000</h1>
+									<h1 class="precios">$74.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
 											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
@@ -154,7 +154,7 @@
 								<img src="../assets/img/Azul2.jpg" class="card-img-top" alt="Imagen Loción">
 								<div class="card-body">
 									<h4>Loción Limpiadora y Aclarante FACE CUTE &reg;</h4>
-									<h1 class="precios">$46.000</h1>
+									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
 											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
@@ -181,7 +181,7 @@
 								<img src="../assets/img/Rosada.jpg" class="card-img-top" alt="Imagen Loción">
 								<div class="card-body">
 									<h4>Loción Limpiadora y Aclarante FACE CUTE &reg;</h4>
-									<h1 class="precios">$46.000</h1>
+									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
 											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
@@ -208,7 +208,7 @@
 								<img src="../assets/img/Amarilla.jpg" class="card-img-top" alt="Imagen Loción">
 								<div class="card-body">
 									<h4>Loción Limpiadora y Aclarante FACE CUTE &reg;</h4>
-									<h1 class="precios">$46.000</h1>
+									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
 											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
@@ -235,7 +235,7 @@
 								<img src="../assets/img/Beige.jpg" class="card-img-top" alt="Imagen Loción">
 								<div class="card-body">
 									<h4>Loción Limpiadora y Aclarante FACE CUTE &reg;</h4>
-									<h1 class="precios">$46.000</h1>
+									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
 											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
@@ -288,7 +288,7 @@
 							</div>
 							<div class="col-12">
 								<p>
-									Puedes contactarnos vía correo electrónico a <span>ventas@locionlimpiadorayaclarante.com</span> y/o nuestro Whatspp <span>(57) 3116298374</span>
+									Puedes contactarnos vía correo electrónico a <span>ventas@locionlimpiadorayaclarante.com</span> y/o nuestro Whatspp <span>(57) 311 6298374</span>
 								</p>
 							</div>
 							<div class="col-12 mt-3 fabricante d-none d-md-block">

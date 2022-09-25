@@ -14,8 +14,8 @@ if (
 	!empty($messageContactForm)
 ) {
 	$nombre = "FACE CUTE - Portal Web";
-	$mensaje = "¡Hola! en el portal FACE CUTE (https://jhoemsoftware.com/FaceCute/) han diligenciado el formulario de contacto en este instante.";
-	$toSent = "www.jhonlive90@gmail.com";
+	$mensaje = "¡Hola! en el portal FACE CUTE (https://locionlimpiadorayaclarantefacecute.com/) han diligenciado el formulario de contacto en este instante.";
+	$toSent = "diegogiraldo02@gmail.com";
 	$theMessajePHP = "Notificación de Contacto * FACE CUTE";
 
 	$sent = "De: $nombre \n";

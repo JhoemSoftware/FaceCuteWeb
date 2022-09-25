@@ -10,7 +10,7 @@ if (isset($_POST['btnComprar'])) {
 	$CiudDircCliente 		= strip_tags(addslashes($_POST['CiudDircCliente']));
 	$TelefCliente			= strip_tags(addslashes($_POST['TelefCliente']));
 	$cantidadProductoCompra = strip_tags(addslashes($_POST['cantidadProductoCompra']));
-	$valorDomicilio			= 11000;
+	$valorDomicilio			= 12000;
 
 	if ($nombreProductoSolicitado === "Loción Limpiadora y Aclarante FACE CUTE") {
 		if ($cantidadProductoCompra >= 6) {
@@ -111,7 +111,7 @@ if (isset($_POST['btnComprar'])) {
 										Este es nuestro QR de pagos, por favor verifica que al momento de escanear el código desde tu aplicación bancaria te aparezca como persona titular de cuenta <b>LAURA VIVIANA VARGAS JIMENEZ</b> con la descripción <b>FACE CUTE_LOCION__FACE CUTE LOCION</b>
 									</p>
 									<p style="margin-bottom: 5px; text-align: justify;">
-										Código QR para la transferencia bancaria de tu pago, al realizar tu pago no olvides enviar tu evidencia de pago (captura de pantalla) al número de WhatsApp <span style="text-shadow: 1.5px 1px #000;font-weight: bold;">(57) 3116298374</span>
+										Código QR para la transferencia bancaria de tu pago, al realizar tu pago no olvides enviar tu evidencia de pago (captura de pantalla) al número de WhatsApp <span style="text-shadow: 1.5px 1px #000;font-weight: bold;">(57) 311 6298374</span>
 									</p>
 								</div>
 								<div class="col-12 mb-5 mt-5">
@@ -126,7 +126,7 @@ if (isset($_POST['btnComprar'])) {
 										Este es nuestro número de cuenta bancaria para pagos, por favor verifica que al momento de insertar el número sea el correcto para evitar anomalías. <b>CUENTA DE AHORROS BANCOLOMBIA</b> No. <b>542 1618 2475</b>
 									</p>
 									<p style="margin-bottom: 5px; text-align: justify;">
-										Al realizar tu pago no olvides enviar tu evidencia de pago (captura de pantalla) al número de WhatsApp <span style="text-shadow: 1.5px 1px #000;font-weight: bold;">(57) 3116298374</span>
+										Al realizar tu pago no olvides enviar tu evidencia de pago (captura de pantalla) al número de WhatsApp <span style="text-shadow: 1.5px 1px #000;font-weight: bold;">(57) 311 6298374</span>
 									</p>
 								</div>
 								<div class="col-12 mb-5 mt-5">
@@ -170,7 +170,7 @@ if (isset($_POST['btnComprar'])) {
 								</div>
 								<div class="col-12">
 									<p>
-										Puedes contactarnos vía correo electrónico a <span>ventas@locionlimpiadorayaclarante.com</span> y/o nuestro Whatspp <span>(57) 3175012259</span>
+										Puedes contactarnos vía correo electrónico a <span>ventas@locionlimpiadorayaclarante.com</span> y/o nuestro Whatspp <span>(57) 317 5012259</span>
 									</p>
 								</div>
 								<div class="col-12 mt-3 fabricante d-none d-md-block">

@@ -7,27 +7,27 @@
 			case '1':
 			$producto = "Loción Limpiadora y Aclarante FACE CUTE";
 			$urlImagen = "../../assets/img/VidrioCaja3.jpg";
-			$valor = 46000;
+			$valor = 50000;
 			break;
 			case '2':
 			$producto = "Loción Humectante FACE CUTE";
 			$urlImagen = "../../assets/img/Locion2.jpg";
-			$valor = 11000;
+			$valor = 12000;
 			break;
 			case '3':
 			$producto = "Jabón Facial FACE CUTE";
 			$urlImagen = "../../assets/img/Jabon.jpg";
-			$valor = 11000;
+			$valor = 12000;
 			break;
 			case '4':
 			$producto = "Kit FACE CUTE";
 			$urlImagen = "../../assets/img/Combo.jpg";
-			$valor = 68000;
+			$valor = 74000;
 			break;
 			case '5':
 			$producto = "Loción Limpiadora y Aclarante FACE CUTE";
 			$urlImagen = "../../assets/img/ComoPlastico1.jpg";
-			$valor = 46000;
+			$valor = 50000;
 			break;
 		}
 
@@ -175,7 +175,7 @@
 								</div>
 								<div class="col-12">
 									<p>
-										Puedes contactarnos vía correo electrónico a <span>ventas@locionlimpiadorayaclarante.com</span> y/o nuestro Whatspp <span>(57) 3116298374</span>
+										Puedes contactarnos vía correo electrónico a <span>ventas@locionlimpiadorayaclarante.com</span> y/o nuestro Whatspp <span>(57) 311 6298374</span>
 									</p>
 								</div>
 								<div class="col-12 mt-3 fabricante d-none d-md-block">
@@ -244,7 +244,7 @@
 					var valorProductoCompra = $('#valorProductoCompra').val();
 					var cantidadProductoCompra = $('#cantidadProductoCompra').val();
 					var nombreProductoSolicitado = $('#nombreProductoSolicitado').val();
-					var valorDomicilio = 11000;
+					var valorDomicilio = 12000;
 					var mensaje1 = $('#MensajeAlertaSucc');
 					var mensaje2 = $('#MensajeAlertaDang');
 

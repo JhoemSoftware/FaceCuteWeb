@@ -15,10 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/index.css">
 </head>
 <body>
-	<!-- Botón de Whatsapp -->
-	<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Gracias%20por%20comunicarte%20con%20FACE%20CUTE.%20¿Cómo%20podemos%20ayudarte?" class="whatsapp" target="_blank">
-			<img src="assets/img/whp.png" alt="logo-whatsapp">
-		</a>
+	
 	<!-- Logo Página -->
 	<div class="container-fluid contenedorLogo">
 		<div class="wow fadeInUp" data-wow-delay=".3s">
@@ -324,6 +321,10 @@
 			</section>
 		</content>
 	</main>
+	<!-- Botón de Whatsapp -->
+	<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Gracias%20por%20comunicarte%20con%20FACE%20CUTE.%20¿Cómo%20podemos%20ayudarte?" class="whatsapp" target="_blank">
+			<img src="assets/img/whp.png" alt="logo-whatsapp">
+		</a>
 	<footer>
 		<div class="container mt-5" id="contactenos">
 			<h1 style="color:#fff">CONTACTO</h1>
