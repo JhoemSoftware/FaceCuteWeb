@@ -68,7 +68,7 @@ a:hover{ text-decoration: none;	color: #30dfb3; }
 .card{ background-color: transparent; border: none; }
 
 .card-img-top{
-	height: 180px;
+	height: 130px;
 	margin-top: 30px;
 	border-radius: 20px 60px 20px 60px;
 	border: 1px solid #30dfb3;
@@ -120,13 +120,21 @@ a:hover{ text-decoration: none;	color: #30dfb3; }
 
 .btn-link:hover{ text-decoration: none; }
 
+.btn-info{
+	margin: 3%;
+}
+
 .btn-info a{
 	color: #fff;
 	font-size: 13px;
 	text-decoration: none;
 	text-transform: capitalize;
 	letter-spacing: 1px;
+	padding-top: 10px;
+}
 
+.btn-info a img{
+	width: 20px;
 }
 
 .imgCompraProducto{	width: 35px; }

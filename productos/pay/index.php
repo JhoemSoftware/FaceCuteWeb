@@ -233,83 +233,6 @@
 				</div>
 			</div>
 		</footer>
-		<script type="text/javascript">
-			window.onload = function () {
-
-				var elementoInput = document.getElementById('cantidadProductoCompra');
-
-				elementoInput.addEventListener('blur', CalcularPrecioPago);
-
-				function CalcularPrecioPago() {
-					var valorProductoCompra = $('#valorProductoCompra').val();
-					var cantidadProductoCompra = $('#cantidadProductoCompra').val();
-					var nombreProductoSolicitado = $('#nombreProductoSolicitado').val();
-					var valorDomicilio = 12000;
-					var mensaje1 = $('#MensajeAlertaSucc');
-					var mensaje2 = $('#MensajeAlertaDang');
-
-					//mensaje1.removeAttr('hidden');	ver
-					//mensaje1.attr('hidden',true);		ocultar
-
-					console.log("Cantidad productos: " + cantidadProductoCompra);
-					console.log("Valor producto: " + valorProductoCompra);
-
-					if (cantidadProductoCompra === "") {
-						mensaje2.removeAttr('hidden');
-						mensaje1.attr('hidden',true);
-						$('#textoErrorAlerta2').text('Debes seleccionar la cantidad de productos que deseas');
-					} else if(cantidadProductoCompra <= 0) {
-						mensaje2.removeAttr('hidden');
-						mensaje1.attr('hidden',true);
-						$('#textoErrorAlerta2').text('La cantidad debe ser mayor a CERO');
-					} else {
-
-						if (nombreProductoSolicitado === "Loción Limpiadora y Aclarante FACE CUTE") {
-							if (cantidadProductoCompra >= 6) {
-								valorProductoCompra = valorProductoCompra - 5000;
-							}
-						} else if (nombreProductoSolicitado === "Kit FACE CUTE") {
-							if (cantidadProductoCompra >= 6) {
-								valorProductoCompra = valorProductoCompra - 9000;
-							}
-						} else {
-							if (cantidadProductoCompra >= 6) {
-								valorProductoCompra = valorProductoCompra - 2000;
-							}
-						}
-
-						var valorCompraSinDomicilio = valorProductoCompra * cantidadProductoCompra;
-
-						var resultadoPagarTotal = (valorProductoCompra * cantidadProductoCompra) + valorDomicilio;
-
-						var ResultadoPagarTotalTexto = resultadoPagarTotal.toString().replace(/(?<!\..*)(\d)(?=(?:\d{3})+(?:\.|$))/g, '$1,');
-
-						var ResultadoPagarDomicilioTexto = valorDomicilio.toString().replace(/(?<!\..*)(\d)(?=(?:\d{3})+(?:\.|$))/g, '$1,');
-
-						var ResultadoPagarTotalSinDomicilioTexto = valorCompraSinDomicilio.toString().replace(/(?<!\..*)(\d)(?=(?:\d{3})+(?:\.|$))/g, '$1,');
-						
-						mensaje1.removeAttr('hidden');
-						mensaje2.attr('hidden',true);
-						
-						$('#textoErrorAlerta1').text("El valor de su compra es: $"
-														+ ResultadoPagarTotalSinDomicilioTexto + 
-														" El valor del envío es: $" 
-														+ ResultadoPagarDomicilioTexto + 
-														" El valor total a pagar es: $" 
-														+ ResultadoPagarTotalTexto );
-						//$('#FormAddCompra').submit();
-					}
-				}
-
-			}
-
-		/*así capturo un evento
-		$('#btnComprar').click(function(e) {
-			e.preventDefault();
-			console.log('Clic Botón Solicitar');
-
-		});*/
-	</script>
 	<script src="../../../assets/js/jquery.js"></script>
 	<script src="../../../assets/js/bootstrap.min.js"></script>
 	<script src="../../../assets/js/jquery.parallax.js"></script>
@@ -321,6 +244,10 @@
 	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
+	<script src="../../assets/js/products-min.js"></script>
+	<script>
+		window.onload = () => moduleProduct.productoValor();
+	</script>
 </body>
 </html>
 

@@ -56,11 +56,11 @@
 					<img src="assets/img/ComoPlastico1.jpg" class="d-block w-100" alt="Imagen Slider">
 				</div>
 				<div class="carousel-item">
-					<img src="assets/img/JabonSlide.jpg" class="d-block w-100" alt="Imagen Slider">
+					<img src="assets/img/Vidrio.jpg" class="d-block w-100" alt="Imagen Slider">
 				</div>
-				<div class="carousel-item">
+				<!-- <div class="carousel-item">
 					<img src="assets/img/CremaSlide.jpg" class="d-block w-100" alt="Imagen Slider">
-				</div>
+				</div> -->
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
 				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -87,33 +87,15 @@
 							</p>
 						</div>
 						<div class="container mt-5">
-							<h1>Kit Facial FACE CUTE &reg;</h1>
+							<h1>Loción Limpiadora y Aclarante FACE CUTE &reg;</h1>
 							<hr>
-							<div class="wow fadeInUp mt-5 mb-5" data-wow-delay="0.6s">
-								<img src="assets/img/Kit.jpg" class="imagenesContenido mb-5">
-							</div>
-							<div id="test">
-								<h1>
-									Nuestro kit para limpiar, aclarar y humectar se compone de:
-								</h1>
-								<hr>
-							</div>
 							<div class="row justify-content-around">
-								<div class="col-12 col-md-4">
-									<div class="wow fadeInDown" data-wow-delay="0.5s">
-										<div class="card">
-											<img src="assets/img/Locion2.jpg" class="card-img-top" alt="Imagen Loción">
-											<div class="card-body">
-												<h4>Loción Humectante FACE CUTE &reg;</h4>
-												<p class="card-text">
-													Hidrata, suaviza, humecta y fortalece la piel<br>
-													<b>Contiene:</b> aloe vera, elastina, colágeno, aceite de coco y vitamina E
-												</p>
-											</div>
-										</div>
+								<div class="col-12 col-lg-5 align-self-center">
+									<div class="wow fadeInUp mt-5 mb-5" data-wow-delay="0.6s">
+										<img src="assets/img/Vidrio2.jpg" class="imagenesContenido mb-5">
 									</div>
 								</div>
-								<div class="col-12 col-md-4">
+								<div class="col-12 col-lg-5 align-self-center">
 									<div class="wow fadeInRight" data-wow-delay="0.5s">
 										<div class="card">
 											<img src="assets/img/VidrioCaja2.jpg" class="card-img-top" alt="Imagen Loción">
@@ -124,27 +106,12 @@
 												</p>
 											</div>
 										</div>
-									</div>
-								</div>
-								<div class="col-12 col-md-4">
-									<div class="wow fadeInLeft" data-wow-delay="0.5s">
-										<div class="card">
-											<img src="assets/img/Jabon2.jpg" class="card-img-top" alt="Imagen Loción">
-											<div class="card-body">
-												<h4>Jabón Hidratante FACE CUTE &reg;</h4>
-												<p class="card-text">
-													Elimina todas las impurezas y contaminantes de la piel que se producen durante el día, para uso diario en las mañanas y en las noches <br>
-													<b>Contiene:</b> colágeno, elastina, glicerina y vitamina E y C
-												</p>
-											</div>
+										<div class="col-12 align-self-center">
+											<a href="productos/" class="btn btn-info" style="padding-top: 10px">Comprar</a>
 										</div>
 									</div>
 								</div>
-								<div class="col-12 align-self-center">
-									<a href="productos/" class="btn btn-info">Comprar</a>
-								</div>
 							</div>
-
 						</div>
 					</div>
 				</div>

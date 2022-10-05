@@ -31,43 +31,16 @@
 		<div class="container">
 			<div class="container mb-5">
 				<div class="col-12 mb-3">
-					<h1>Kit de Productos Faciales FACE CUTE &reg;</h1>
+					<h1>Productos Faciales FACE CUTE &reg;</h1>
 					<hr>
 					<div id="test">
-						<p style="text-align:center;">
-							Estos son nuestros productos disponibles para ventas nacionales con sus respectivos precios. Si tienes alguna duda puedes comunicarte por medio del canal de atención al usuario en WhatsApp
+						<p style="text-align:left;">
+							Estos son nuestros productos disponibles para ventas nacionales. Si tienes alguna duda puedes comunicarte por medio del canal de atención al usuario en WhatsApp.
 						</p>
 					</div>
 				</div>
 				<div class="row justify-content-center mb-3">
-					<div class="col-12 col-md-3 align-self-center">
-						<div class="wow fadeInDown" data-wow-delay="0.5s">
-							<div class="card">
-								<img src="../assets/img/Locion2.jpg" class="card-img-top" alt="Imagen Loción">
-								<div class="card-body">
-									<h4>Loción Humectante FACE CUTE &reg;</h4>
-									<h1 class="precios">$12.000</h1>
-									<div class="card-text mt-3">
-										<div class="row justify-content-center">
-											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
-												<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Quiero%20conocer%20más%20información%20de%20la%20*Loción%20Humectante%20y%20Aclarante%20FACE%20CUTE*" target="_blank">
-													<img class="imgCompraProducto" src="../assets/img/wp.png">
-													Conocer más
-												</a>
-											</div>
-											<div class="col-8 btn btn-info mb-5" style="padding-top: 2%;">
-												<a href="pay/?lcn=2">
-													<img class="imgCompraProducto" src="../assets/img/carroCompra.png">
-													comprar
-												</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-12 col-md-3 align-self-center">
+					<div class="col-12 col-md-2 align-self-center">
 						<div class="wow fadeInRight" data-wow-delay="0.5s">
 							<div class="card">
 								<img src="../assets/img/Vidrio2.jpg" class="card-img-top" alt="Imagen Loción">
@@ -76,13 +49,13 @@
 									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
-											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Quiero%20conocer%20más%20información%20de%20la%20*Loción%20Limpiadora%20y%20Aclarante%20FACE%20CUTE*%20-%20Vidrio" target="_blank">
 													<img class="imgCompraProducto" src="../assets/img/wp.png">
 													Conocer más
 												</a>
 											</div>
-											<div class="col-8 btn btn-info mb-5" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="pay/?lcn=1&cp=fcv">
 													<img class="imgCompraProducto" src="../assets/img/carroCompra.png">
 													comprar
@@ -94,61 +67,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-12 col-md-3 align-self-center">
-						<div class="wow fadeInLeft" data-wow-delay="0.5s">
-							<div class="card">
-								<img src="../assets/img/Jabon.jpg" class="card-img-top" alt="Imagen Loción">
-								<div class="card-body">
-									<h4>Jabón Hidratante FACE CUTE &reg;</h4>
-									<h1 class="precios">$12.000</h1>
-									<div class="card-text mt-3">
-										<div class="row justify-content-center">
-											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
-												<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Quiero%20conocer%20más%20información%20del%20*Jabón%20Hidratante%20FACE%20CUTE*" target="_blank">
-													<img class="imgCompraProducto" src="../assets/img/wp.png">
-													Conocer más
-												</a>
-											</div>
-											<div class="col-8 btn btn-info mb-5" style="padding-top: 2%;">
-												<a href="pay/?lcn=3">
-													<img class="imgCompraProducto" src="../assets/img/carroCompra.png">
-													comprar
-												</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-12 col-md-3 align-self-center">
-						<div class="wow fadeInLeft" data-wow-delay="0.5s">
-							<div class="card">
-								<img src="../assets/img/Combo.jpg" class="card-img-top" alt="Imagen Loción">
-								<div class="card-body">
-									<h4>Kit FACE CUTE &reg;</h4>
-									<h1 class="precios">$74.000</h1>
-									<div class="card-text mt-3">
-										<div class="row justify-content-center">
-											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
-												<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Quiero%20conocer%20más%20información%20del%20*Kit%20FACE%20CUTE*" target="_blank">
-													<img class="imgCompraProducto" src="../assets/img/wp.png">
-													Conocer más
-												</a>
-											</div>
-											<div class="col-8 btn btn-info mb-5" style="padding-top: 2%;">
-												<a href="pay/?lcn=4">
-													<img class="imgCompraProducto" src="../assets/img/carroCompra.png">
-													comprar
-												</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-12 col-md-3 align-self-center">
+					<div class="col-12 col-md-2 align-self-center">
 						<div class="wow fadeInLeft" data-wow-delay="0.5s">
 							<div class="card">
 								<img src="../assets/img/Azul2.jpg" class="card-img-top" alt="Imagen Loción">
@@ -157,13 +76,13 @@
 									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
-											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Quiero%20conocer%20más%20información%20de%20la%20*Loción%20Limpiadora%20y%20Aclarante%20FACE%20CUTE*%20-%20Azul" target="_blank">
 													<img class="imgCompraProducto" src="../assets/img/wp.png">
 													Conocer más
 												</a>
 											</div>
-											<div class="col-8 btn btn-info mb-5" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="pay/?lcn=5&cp=paz">
 													<img class="imgCompraProducto" src="../assets/img/carroCompra.png">
 													comprar
@@ -175,7 +94,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-12 col-md-3 align-self-center">
+					<div class="col-12 col-md-2 align-self-center">
 						<div class="wow fadeInLeft" data-wow-delay="0.5s">
 							<div class="card">
 								<img src="../assets/img/Rosada.jpg" class="card-img-top" alt="Imagen Loción">
@@ -184,13 +103,13 @@
 									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
-											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Quiero%20conocer%20más%20información%20de%20la%20*Loción%20Limpiadora%20y%20Aclarante%20FACE%20CUTE*%20-%20Rosada" target="_blank">
 													<img class="imgCompraProducto" src="../assets/img/wp.png">
 													Conocer más
 												</a>
 											</div>
-											<div class="col-8 btn btn-info mb-5" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="pay/?lcn=5&cp=prs">
 													<img class="imgCompraProducto" src="../assets/img/carroCompra.png">
 													comprar
@@ -202,7 +121,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-12 col-md-3 align-self-center">
+					<div class="col-12 col-md-2 align-self-center">
 						<div class="wow fadeInLeft" data-wow-delay="0.5s">
 							<div class="card">
 								<img src="../assets/img/Amarilla.jpg" class="card-img-top" alt="Imagen Loción">
@@ -211,13 +130,13 @@
 									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
-											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Quiero%20conocer%20más%20información%20de%20la%20*Loción%20Limpiadora%20y%20Aclarante%20FACE%20CUTE*%20-%20Amarilla" target="_blank">
 													<img class="imgCompraProducto" src="../assets/img/wp.png">
 													Conocer más
 												</a>
 											</div>
-											<div class="col-8 btn btn-info mb-5" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="pay/?lcn=5&cp=pam">
 													<img class="imgCompraProducto" src="../assets/img/carroCompra.png">
 													comprar
@@ -229,7 +148,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-12 col-md-3 align-self-center">
+					<div class="col-12 col-md-2 align-self-center">
 						<div class="wow fadeInLeft" data-wow-delay="0.5s">
 							<div class="card">
 								<img src="../assets/img/Beige.jpg" class="card-img-top" alt="Imagen Loción">
@@ -238,13 +157,13 @@
 									<h1 class="precios">$50.000</h1>
 									<div class="card-text mt-3">
 										<div class="row justify-content-center">
-											<div class="col-8 btn btn-info mb-3" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="https://api.whatsapp.com/send?phone=573116298374&text=¡Hola!%20&#128075;%20Quiero%20conocer%20más%20información%20de%20la%20*Loción%20Limpiadora%20y%20Aclarante%20FACE%20CUTE*%20-%20Beige" target="_blank">
 													<img class="imgCompraProducto" src="../assets/img/wp.png">
 													Conocer más
 												</a>
 											</div>
-											<div class="col-8 btn btn-info mb-5" style="padding-top: 2%;">
+											<div class="col-12 btn btn-info" style="padding-top: 2%;">
 												<a href="pay/?lcn=5&cp=pbg">
 													<img class="imgCompraProducto" src="../assets/img/carroCompra.png">
 													comprar
