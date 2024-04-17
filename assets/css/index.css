@@ -68,9 +68,8 @@ a:hover{ text-decoration: none;	color: #30dfb3; }
 .card{ background-color: transparent; border: none; }
 
 .card-img-top{
-	height: 130px;
 	margin-top: 30px;
-	border-radius: 20px 60px 20px 60px;
+	border-radius: 10px 20px 10px 20px;
 	border: 1px solid #30dfb3;
 }
 

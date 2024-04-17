@@ -40,7 +40,7 @@
 					</div>
 				</div>
 				<div class="row justify-content-center mb-3">
-					<div class="col-12 col-md-2 align-self-center">
+					<!-- <div class="col-12 col-md-2 align-self-center">
 						<div class="wow fadeInRight" data-wow-delay="0.5s">
 							<div class="card">
 								<img src="../assets/img/Vidrio2.jpg" class="card-img-top" alt="Imagen Loción">
@@ -66,7 +66,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="col-12 col-md-2 align-self-center">
 						<div class="wow fadeInLeft" data-wow-delay="0.5s">
 							<div class="card">
